@@ -60,5 +60,3 @@ Admin Dashboard (optional) – for internal monitoring and reconciliation.
 - NFR-3: The system shall achieve 99.9% uptime.
 - NFR-4: The system shall scale horizontally via container orchestration (Kubernetes or Docker Swarm).
 - NFR-5: All code shall follow OWASP security best practices.
-
-## 5. System Architecture
